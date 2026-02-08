@@ -120,7 +120,8 @@ Additionally to implement broader market movements we added:
 
 # Interesting Plots
 
-
+![](readme_images/image.png)
+![](readme_images/img.png)
 
 # Final Model
 
