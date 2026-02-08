@@ -133,7 +133,7 @@ Considering the finickiness of financial data, characterised by a high noise-to-
 
 ## Alternative approaches
 
-Training a recurrent neural network or a transformer yields rather poor performance. This is probably because such models are very data-hungry and, in the case of financial data, require careful hyperparameter-tuning. However, building an ensemble model encompassing a GRU model trained on raw tick data, a convolutional neural network and a residual neural network might further improve our baseline model. 
+Training a recurrent neural network or a transformer yields rather poor performance. This is probably because such models are very data-hungry and easily overfit to noise in low signal-to-noise regimes. However, building an ensemble model encompassing a GRU model trained on raw tick data, a convolutional neural network and a residual neural network might further improve our baseline model. 
 
  # The Result
 
