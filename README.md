@@ -122,6 +122,10 @@ Additionally to implement broader market movements we added:
 
 ![](readme_images/image.png)
 ![](readme_images/img.png)
+![](plotting_files/plotting_6_0.png)
+![](plotting_files/plotting_6_1.png)
+![](plotting_files/plotting_6_2.png)
+![](plotting_files/plotting_7_0.png)
 
 # Final Model
 
